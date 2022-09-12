@@ -1,0 +1,2 @@
+#!/bin/absh
+paste - - | cut -f 1
